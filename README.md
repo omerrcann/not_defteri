@@ -8,3 +8,5 @@ Aşağıdaki komutu kullanarak `customtkinter` paketini yükleyebilirsiniz:
 
 ```bash
 pip install customtkinter
+```
+
