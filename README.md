@@ -1,4 +1,4 @@
-*Uygulama Simgesi*
+***Uygulama Simgesi***
  
  <img width="256" height="256" alt="notes-1" src="https://github.com/user-attachments/assets/eb16ffa2-7575-4238-88db-28a4b2d1dbd9" />
 
